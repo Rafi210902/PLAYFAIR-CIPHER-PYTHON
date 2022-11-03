@@ -1,5 +1,7 @@
 PLAYFAIR-CIPHER-PYTHON-
 OUTPUT
+
+
 Enter key: TEKNIK INFORMATIKA
 
 Encryption
